@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed>
+
+							<AgencyName>Ели Николова </AgencyName>
+							<AgencyID>1814</AgencyID>
+							<AgencyTel>0876797795</AgencyTel>
+							<AgencyEmail>enikolova@ibg-imot.bg</AgencyEmail>
+							<Updated>2017-01-06 14:04:18</Updated>
+							<Offers>
+
+								<Item>
+
+					<EstateID>318551</EstateID>
+
+					<MainType>1</MainType>
+
+					<SubType>8</SubType>
+
+					<Status>1</Status>
+
+					<Domain>22</Domain>
+
+					<City>29</City>
+
+					<SubCity>567</SubCity>
+
+					<DealType>1</DealType>
+
+					<EstateName><content>
+
+											<lang>1</lang>
+
+											<text>Продажба 3-стаен гр. София - Подуяне 0m²</text>
+
+										  </content><content>
+
+											<lang>2</lang>
+
+											<text>Satılık 3+1 Daire Sofya - Poduyane 0m²</text>
+
+										  </content><content>
+
+											<lang>3</lang>
+
+											<text>Sale 2-bedroom  Sofia - Poduyane 0m²</text>
+
+										  </content><content>
+
+											<lang>7</lang>
+
+											<text>Продажа 3-комнатная гр. София - Подуяне 0m²</text>
+
+										  </content></EstateName>
+
+					<EstateRefCode>1612001</EstateRefCode>
+
+					<UpdateDate>2016-12-27 10:09:02</UpdateDate>
+
+					<Price>300000</Price>
+
+					<Currency>2</Currency>
+
+					<Description><content>
+
+											<lang>1</lang>
+
+											<text/>
+
+										  </content><content>
+
+											<lang>2</lang>
+
+											<text/>
+
+										  </content><content>
+
+											<lang>3</lang>
+
+											<text/>
+
+										  </content><content>
+
+											<lang>7</lang>
+
+											<text/>
+
+										  </content></Description>
+
+					<YoutubeLink/>
+					
+					<Tags>
+					
+						<Top>0</Top>
+						
+						<Exclusive>0</Exclusive>
+						
+						<Nocommission>0</Nocommission>
+						
+					</Tags>
+					
+					<Latitude>42.69271</Latitude>
+
+					<Longtitude>23.35397</Longtitude>
+
+					<Zoom>14</Zoom>
+
+					<BrokerID>1814</BrokerID>
+
+					<BrokerName>Ели Николова </BrokerName>
+
+					<BrokerTel>0876797795</BrokerTel>
+
+					<BrokerEmail>enikolova@ibg-imot.bg</BrokerEmail>
+
+					<BrokerImg>http://login.estateplus.net/account/enikolova_1814/big/YCCFG-20161024203839.png</BrokerImg>
+
+					<Images><Image>http://login.estateplus.net/account/enikolova_1814/big/ROMPY-20161227100655.jpg</Image></Images>
+
+					<Amenities><Amenity>1</Amenity><Amenity>18</Amenity><Amenity>44</Amenity><Amenity>87</Amenity><Amenity>36</Amenity><Amenity>54</Amenity><Amenity>55</Amenity><Amenity>73</Amenity><Amenity>89</Amenity><Amenity>104</Amenity><Amenity>424</Amenity></Amenities>
+
+					<Locations/>
+
+					<SpecialData><ConstructType>1</ConstructType><Area>0</Area><Rooms>0</Rooms><Bedrooms>0</Bedrooms><Floor>3</Floor><Floors>8</Floors><Position>0</Position><NewBuildID>0</NewBuildID><Heatings/><Bathrooms>1</Bathrooms><Stage>1</Stage></SpecialData>
+					
+					<CreateDate>2016-12-27 10:02:30</CreateDate>
+					
+					<OldPrice>300000.00</OldPrice>
+					
+					<Draws/>
+					
+					<Distances/>
+
+				  </Item>
+
+							</Offers>
+
+						</feed>
